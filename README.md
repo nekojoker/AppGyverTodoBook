@@ -1,2 +1,16 @@
-# AppGyverTodoBook
- 「猫でもわかるAppGyver Todoアプリをつくろう」のサポートページです。
+# 「猫でもわかるAppGyver Todoアプリをつくろう」のサポートページ
+
+## 改訂履歴
+
+### ver 1.0 (2020/12/26)
+
+初版
+
+## お問い合わせ
+
+Blog：https://playfab-master.com/contact
+
+Twitter：https://twitter.com/nekojoker1234
+
+1人で対応することになるため、お返事が遅れる場合もあります。  
+また、すべてのお問い合わせにご回答できない場合もありますので、あらかじめご了承ください。  
