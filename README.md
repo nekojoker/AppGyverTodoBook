@@ -11,7 +11,7 @@ https://nekojoker.booth.pm/items/2624592
 
 ## お問い合わせ
 
-Blog：https://playfab-master.com/contact
+Blog：https://appgyver-master.com/contact
 
 Twitter：https://twitter.com/nekojoker1234
 
